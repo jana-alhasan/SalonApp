@@ -1,13 +1,21 @@
-# Salon Beauty Booking — Marketing Page Recreation
+# Salon Website Mockup — HTML & CSS
 
-My first hands-on task as a Frontend Developer at ٍ salon beauty booking — recreating
-the company's public marketing homepage from scratch using HTML and CSS,
-as an onboarding exercise to get familiar with the codebase and design system.
+A static salon-themed marketing-page recreation built with HTML and CSS as early frontend practice.
 
-## 🛠️ Built With
-- HTML5, CSS3
-- Responsive layout matching the original page structure
+## What this repository demonstrates
 
-## 🎯 What I Learned
-Translating an existing live design into clean, structured markup — my
-first real-world frontend task, and the starting point of my time at salon beauty booking
+- Semantic HTML page structure
+- Custom CSS styling
+- Responsive layout work
+- Translating a visual reference into a static web page
+
+## Evidence boundary
+
+This public repository is a **mockup/recreation**. It is not the source code of the private production salon-owner web application from my professional experience, and it should not be used as evidence of ownership of that product, its booking flow, backend, or production implementation.
+
+My professional salon work is described separately in my CV/portfolio because the production source is private.
+
+## Built with
+
+- HTML5
+- CSS3
